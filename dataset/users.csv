@@ -1,0 +1,7 @@
+userId,FirstName,LastName,Role,email,year
+1001,Tom,Grove,Learner,tgrove@email.edu,1
+1002,Lily,Chen,Learner,lchen@email.edu,
+1003,Jim,Folsom,Learner,jim.folsom@email.edu,2
+1004,Dan ,Rivera,Learner,rivera_dan@email.edu,1
+1005,Brenda ,Ulloa,Learner,brendau@email.edu,
+1006,Tammy,Teacher,Instructor,tteach@email.edu,
