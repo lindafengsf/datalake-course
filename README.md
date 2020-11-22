@@ -1,2 +1,2 @@
-# my-first-binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lindafengsf/my-first-binder/HEAD)
+# datalake-course
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lindafengsf/datalake-course/HEAD)
